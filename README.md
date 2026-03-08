@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi! I'am TRICERDN<br>🖥️I'm currently developing a server side application for an AGV ecosystem<br>👀I develop projects in Python, Java and Flutter<br>🎈I'm keenly interested in frying my brain<br>Pronouns: He/Him<br>⚡Fun Fact: I
+👋Hi! I'am TRICERDN<br>🖥️I'm currently developing a server side application for an AGV ecosystem<br>👀I develop projects in Python, Java and Flutter<br>🎈I'm keenly interested in frying my brain<br>⚡Pronouns: He/Him<br>😄Fun Fact: I love playing old video games
 
 
 # 🌐 Socials:
